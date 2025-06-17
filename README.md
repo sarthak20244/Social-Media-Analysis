@@ -73,7 +73,7 @@ Daily Usage ↔️ Conflicts	0.80 (positive)
 🎯 What I Built:
 Dynamic Filters: Country, Gender, Platform.
 
-Key KPIs: Average Usage, High vs. Low Addiction groups.
+Key KPIs: Number of addiction,Academically hampered,Sleep hampered
 
 Impact Visuals: Charts showing how addiction affects:
 
@@ -94,8 +94,7 @@ Mental Health (High)	4.97/10	~25% lower than low addicted
 Academic Impact	68%	Report decline in grades
 
 ✅ Conclusion: Higher social media usage strongly correlates with less sleep, lower mental well-being, more conflicts, and academic decline.
-![social_media _page-0001](https://github.com/user-attachments/assets/656caae2-85cd-4112-b380-2d640b956b8b)
-
+![social_media _page-0001](https://github.com/user-attachments/assets/9da770b0-5ba6-4707-8c43-64055dda5bd2)
 
 🛠️ Tools & Libraries Used
 Tool	Purpose
