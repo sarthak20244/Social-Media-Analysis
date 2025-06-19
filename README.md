@@ -1,118 +1,103 @@
-📊✨ Social Media Usage Analysis
-An end-to-end data project combining Python (Jupyter Notebook), Excel, and Power BI to uncover insights from global student social media usage patterns and their impact on academics and mental health.
+Social Media Usage Analysis
+Description
+This project demonstrates a complete data analysis workflow using global student survey data on social media usage. It covers the end-to-end process of data ingestion, cleaning, analysis, and visualization using Python (pandas, NumPy, seaborn, matplotlib), Excel, and Power BI.
 
-📁 Project Structure
+Project Goals
+The goal of this project is to gain practical experience with key tools in the modern data analysis stack by building an insightful analysis pipeline. The analysis explores how social media usage affects student academic performance, sleep, mental health, and social conflicts.
+
+Tech Stack
+Tool	Purpose
+Python (pandas, NumPy)	Data cleaning, transformation, and exploratory data analysis
+Matplotlib, Seaborn	Data visualization and statistical plots
+Excel	Initial data inspection and quick checks
+Power BI	Interactive dashboards and KPI reporting
+Jupyter Notebook	Reproducible, step-by-step analysis
+
+Project Architecture
+Workflow:
+Raw survey data → Python for cleaning and EDA → Clean dataset → Power BI for dashboarding and business insights.
+
+Setup and Getting Started
+To run this project locally:
+
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/sarthak20244/Social-Media-Analysis.git
+cd Social-Media-Analysis
+Open the Jupyter Notebook:
+Run all cells in SocialMediaAnalysis.ipynb to perform data cleaning and exploratory data analysis.
+
+Open the Power BI dashboard:
+Open social_media.pbix in Power BI Desktop to view the interactive reports and insights.
+
+Project Structure
 File	Description
-countries of the world.csv	🌍 Raw country-wise geographical info
-ss.csv	📌 Cleaned student survey data
-SocialMediaAnalysis.ipynb	🐍 Python notebook for data cleaning & EDA
-social_media.pbix	📈 Interactive Power BI dashboard
+countries of the world.csv	Raw country-wise geographical data
+ss.csv	Cleaned student survey responses
+SocialMediaAnalysis.ipynb	Python notebook for data cleaning and EDA
+social_media.pbix	Power BI dashboard
 
-🌍 1️⃣ Raw Data
+Data Ingestion, Cleaning, and Exploration
+Raw Data:
+
 countries of the world.csv
-
-Country, region, area, population — used for region-based enrichment.
+Contains country, region, area, and population data for regional enrichment.
 
 ss.csv
+Includes 705 survey responses covering daily usage hours, most used platforms, academic impact, mental health scores, sleep hours, and conflicts.
 
-705 survey responses about:
+Notebook Highlights:
 
-Daily usage hours
+Load and merge datasets using pandas
 
-Most used platforms
+Handle missing values and correct inconsistencies using NumPy
 
-Academic impact
+Analyze usage patterns by demographic segments
 
-Mental health score
+Correlate social media usage with academic performance, sleep, and mental health using seaborn and matplotlib
 
-Sleep hours
+Export the cleaned dataset for dashboarding in Power BI
 
-Conflicts due to social media
+Key Findings
+Metric	Insight
+Gender	Balanced dataset with approximately 50% male and 50% female respondents
+Average Daily Usage	Approximately 5 hours per day, about 30% higher than healthy recommendations
+Most Addictive Platforms	WhatsApp and Snapchat show the highest average addiction scores (~7.4/10)
+High Addiction Rate	28% of students have an addiction score greater than 7
+Sleep Patterns	Highly addicted students sleep about 1.6 hours less than others
+Mental Health	Students with high usage have lower mental health scores (4.97 vs. 6.71)
+Social Conflicts	Strong positive correlation (0.93) between addiction and conflicts
 
-✅ Purpose: Provide a real scenario to analyze behavioral and academic trends.
+Power BI Dashboard and Insights
+The Power BI dashboard provides interactive visualizations and key performance indicators, including:
 
-📓 2️⃣ Python Analysis (SocialMediaAnalysis.ipynb)
-✔️ What I Did:
-✅ Loaded and merged data (pandas)
+Filters for country, gender, and platform
 
-✅ Cleaned inconsistencies & missing values (numpy)
+KPIs highlighting high addiction rates, academic impact, and reduced sleep
 
-✅ Analyzed usage patterns by demographics
+Charts that illustrate the relationship between social media usage and its effects on academics, sleep, mental health, and social conflicts
 
-✅ Correlated usage with academic performance, sleep, and mental health (seaborn, matplotlib)
-
-✅ Exported clean dataset for dashboarding
-
-🔑 Key Findings:
-Gender: ~50% Male & Female — balanced dataset.
-
-Average Usage: ~5 hrs/day — about **30% higher than healthy recommendations.
-
-Most Addictive Platforms: WhatsApp & Snapchat show highest average Addicted_Score (~7.4/10).
-
-High Addiction: 28% students have Addicted_Score > 7.
-
-Sleep: Highly addicted students sleep ~1.6 hrs less than others.
-
-High: ~5.7 hrs/night vs. Low: ~7.3 hrs/night.
-
-Mental Health: Heavy users have lower scores.
-
-High addiction: 4.97/10, Low addiction: 6.71/10.
-
-Conflicts: Strong positive correlation (0.93) between addiction and social conflicts.
-
-📈 Correlation Highlights:
-
-Relationship	Correlation
-Addicted Score ↔️ Mental Health	-0.94 (strong negative)
-Daily Usage ↔️ Sleep Hours	-0.79 (negative)
-Daily Usage ↔️ Conflicts	0.80 (positive)
-
-📊 3️⃣ Power BI Dashboard (social_media.pbix)
-🎯 What I Built:
-Dynamic Filters: Country, Gender, Platform.
-
-Key KPIs: Number of addiction,Academically hampered,Sleep hampered
-
-Impact Visuals: Charts showing how addiction affects:
-
-📉 Academic scores
-
-😴 Sleep
-
-🧠 Mental health
-
-🗣️ Social conflicts
-
-🚀 Impactful Results:
 KPI	Value	Insight
-Avg Daily Usage	4.9 hrs	30% above recommended
-High Addiction Rate	28%	~1 in 4 students highly addicted
-Sleep Hours (High)	5.7 hrs	~1.6 hrs less than low addicted
-Mental Health (High)	4.97/10	~25% lower than low addicted
-Academic Impact	68%	Report decline in grades
+Average Daily Usage	4.9 hours	About 30% higher than recommended levels
+High Addiction Rate	28%	Approximately 1 in 4 students are highly addicted
+Average Sleep (High Addiction)	5.7 hours	About 1.6 hours less than less-addicted students
+Average Mental Health Score (High Addiction)	4.97/10	Approximately 25% lower than for less-addicted students
+Academic Impact	68%	Reported a decline in academic grades
 
-✅ Conclusion: Higher social media usage strongly correlates with less sleep, lower mental well-being, more conflicts, and academic decline.
-![social_media _page-0001](https://github.com/user-attachments/assets/0ad95615-e343-4e5a-b086-0960bfedcaef)
+How to Use This Project
+Open SocialMediaAnalysis.ipynb in Jupyter Notebook and run all cells to replicate the data analysis.
 
+Open social_media.pbix in Power BI Desktop to interact with the dashboard.
 
-🛠️ Tools & Libraries Used
-Tool	Purpose
-🐍 Python	Core analysis & cleaning
-📊 Pandas	Data manipulation
-🔢 NumPy	Numerical operations
-📈 Matplotlib & Seaborn	EDA & charts
-📊 Excel	Initial data checks
-📑 Jupyter Notebook	Interactive analysis
-📊 Power BI	Interactive dashboard & KPIs
+Connect to the provided CSV files if prompted for data sources.
 
-🚀 How to Use This Project
-1️⃣ Open SocialMediaAnalysis.ipynb in Jupyter Notebook → Run cells for full EDA
-2️⃣ Open social_media.pbix in Power BI Desktop → Explore dashboards
-3️⃣ Connect to raw CSV files for reproducibility
+Author
+Sarthak Choubey
+Email: sarthakchoubey2019@gmail.com
+GitHub: https://github.com/sarthak20244
 
-📎 Author
-Your Name Here
-📧 sarthakchoubey2019@gmail.com
-🔗 GitHub Profile: https://github.com/sarthak20244
+License
+This project is for educational purposes only.
