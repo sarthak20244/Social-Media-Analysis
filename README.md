@@ -115,3 +115,11 @@ The Power BI dashboard provides:
 ## License
 
 This project is for educational purposes only.
+
+# 📊 Metabase Dashboards & Insights
+
+## Dashboard Overview
+
+Here’s the main dashboard layout that brings together all key insights:
+![social_media _page-0001](https://github.com/user-attachments/assets/270b7a3a-05f3-4aba-b532-edee6047a66b)
+
