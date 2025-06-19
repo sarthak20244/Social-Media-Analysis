@@ -114,16 +114,6 @@ The Power BI dashboard provides:
 2. Open `social_media.pbix` in Power BI Desktop to explore the interactive dashboard.
 3. Connect to the provided CSV files if prompted for data sources in Power BI.
 
-## Author
-
-**Name:** Sarthak Choubey  
-**Email:** sarthakchoubey2019@gmail.com  
-**GitHub:** [sarthak20244](https://github.com/sarthak20244)
-
-## License
-
-This project is for educational purposes only.
-
 # 📊 Dashboards & Insights
 
 ## Dashboard Overview
@@ -199,3 +189,12 @@ Here’s the main dashboard layout that brings together all key insights:
 
             3.Indicates addiction is concentrated around a few dominant platforms.
 
+## Author
+
+**Name:** Sarthak Choubey  
+**Email:** sarthakchoubey2019@gmail.com  
+**GitHub:** [sarthak20244](https://github.com/sarthak20244)
+
+## License
+
+This project is for educational purposes only.
