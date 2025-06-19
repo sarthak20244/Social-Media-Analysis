@@ -94,7 +94,8 @@ Mental Health (High)	4.97/10	~25% lower than low addicted
 Academic Impact	68%	Report decline in grades
 
 ✅ Conclusion: Higher social media usage strongly correlates with less sleep, lower mental well-being, more conflicts, and academic decline.
-![social_media _page-0001](https://github.com/user-attachments/assets/9da770b0-5ba6-4707-8c43-64055dda5bd2)
+![social_media _page-0001](https://github.com/user-attachments/assets/0ad95615-e343-4e5a-b086-0960bfedcaef)
+
 
 🛠️ Tools & Libraries Used
 Tool	Purpose
