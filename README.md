@@ -31,6 +31,7 @@ To run this project locally, follow these steps:
 # Clone the repository
 git clone https://github.com/sarthak20244/Social-Media-Analysis.git
 cd Social-Media-Analysis
+```
 Run the Jupyter Notebook:
 Open SocialMediaAnalysis.ipynb and run all cells to perform data cleaning and exploratory data analysis.
 
@@ -45,16 +46,14 @@ SocialMediaAnalysis.ipynb	Python notebook for data cleaning and exploratory anal
 social_media.pbix	Power BI dashboard for interactive visualization
 
 Data Ingestion, Cleaning, and Exploration
-Raw Data:
-
+Raw Data
 countries of the world.csv:
 Includes country, region, area, and population information for regional enrichment.
 
 ss.csv:
 Contains 705 survey responses covering daily usage hours, most used platforms, perceived academic impact, mental health score, sleep hours, and conflicts due to social media.
 
-Python Notebook Highlights:
-
+Python Notebook Highlights
 Load and merge datasets with pandas
 
 Handle missing values and inconsistencies with numpy
