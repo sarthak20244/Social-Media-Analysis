@@ -116,10 +116,78 @@ The Power BI dashboard provides:
 
 This project is for educational purposes only.
 
-# 📊 Metabase Dashboards & Insights
+# 📊 Dashboards & Insights
 
 ## Dashboard Overview
 
 Here’s the main dashboard layout that brings together all key insights:
 ![social_media _page-0001](https://github.com/user-attachments/assets/270b7a3a-05f3-4aba-b532-edee6047a66b)
+
+## Below are the key visualizations and insights created in Power BI.
+
+## 1. Social Media Addiction by Age
+- Question: Which age groups are most affected by social media addiction?
+  ![Capture](https://github.com/user-attachments/assets/3b5ef37a-2ac1-4bb1-89cf-c6e0d3ed37cf)
+
+- Insight:
+
+Age 20 (23.89%) and 24 (23.56%) top the chart, making up nearly half (47.45%) of all cases.
+
+Age 21 follows closely with 22.65%, indicating that early 20s are the most vulnerable group.
+
+## 2. Mental Health Score vs Risk
+- Question: How does mental health score correlate with addiction, academic, and sleep risks?
+  ![Capture1](https://github.com/user-attachments/assets/3e259c75-739e-41b8-9640-abf6a7a6bb0f)
+
+-Insight:
+
+Risk levels peak at a mental health score of 6, suggesting moderate mental health is associated with the highest vulnerability.
+
+As scores increase beyond 6, risk sharply drops — indicating better mental health correlates with reduced risk.
+
+## 3. Academics and Sleep Affected (by Gender)
+- Question: How do gender and addiction impact academic performance and sleep?
+  ![Capture2](https://github.com/user-attachments/assets/9fe60533-280e-4fe0-9934-493765fc53d0)
+
+-Insight:
+
+Both academic performance and sleep are significantly affected, with males showing higher levels of impact than females.
+
+More males suffer academically and experience sleep disruption, pointing to gender-specific susceptibility.
+
+## 4. Addiction Summary Metrics
+- Question: What is the overall impact of social media addiction?
+  ![Capture3](https://github.com/user-attachments/assets/aa8909d5-6ec0-4866-91a3-11f4101a8f31)
+
+-Insight:
+
+4538 individuals are addicted.
+
+453 have their academics hampered.
+
+Sleep for this group is also noted as "Affected", indicating widespread health impacts.
+
+## 5. Risk Level Distribution
+- Question: How are users distributed across risk categories?
+  ![Capture4](https://github.com/user-attachments/assets/ac674838-428e-4c9c-8209-d68dce3f83ca)
+
+- Insight:
+
+66.23% (9K) fall under High Risk.
+
+25.64% (3K) are at Low Risk.
+
+Only 8.12% (1K) are at Medium Risk, showing the majority are at critical risk levels.
+
+## 6. Addiction According to Social Media Platform
+- Question: Which platforms are most associated with addiction?
+  ![Capture5](https://github.com/user-attachments/assets/164e65e4-df9f-4712-b1e7-047dcd577ad1)
+
+- Insight:
+
+Instagram and TikTok lead with the highest addiction scores.
+
+Facebook and WhatsApp follow, while platforms like LINE, Vkontakte, KakaoTalk show minimal impact.
+
+Indicates addiction is concentrated around a few dominant platforms.
 
