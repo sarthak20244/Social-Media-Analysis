@@ -20,14 +20,16 @@ The objective of this project is to gain practical experience with a modern data
 
 ## Project Architecture
 
-**Workflow:**  
-Raw survey data 
+## 📊 Workflow
+
+Raw Survey Data  
 ⬇  
-Python (cleaning & EDA) 
+Python (Cleaning & Exploratory Data Analysis)  
 ⬇  
-Clean dataset 
+Clean Dataset  
 ⬇  
-Power BI dashboards for interactive insights.
+Power BI Dashboards (Interactive Insights)
+
 
 ## Setup and Getting Started
 
