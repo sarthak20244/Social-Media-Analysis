@@ -125,7 +125,8 @@ Here’s the main dashboard layout that brings together all key insights:
 
 ## 1. Social Media Addiction by Age
 - Question: Which age groups are most affected by social media addiction?
-  ![Capture](https://github.com/user-attachments/assets/3b5ef37a-2ac1-4bb1-89cf-c6e0d3ed37cf)
+  ![Capture_PhotoGrid](https://github.com/user-attachments/assets/8e953b28-00d6-40a2-8482-f00f92731187)
+
 
 - Insight:
   
@@ -135,7 +136,7 @@ Here’s the main dashboard layout that brings together all key insights:
 
 ## 2. Mental Health Score vs Risk
 - Question: How does mental health score correlate with addiction, academic, and sleep risks?
-  ![Capture1](https://github.com/user-attachments/assets/3e259c75-739e-41b8-9640-abf6a7a6bb0f)
+![Capture1_PhotoGrid](https://github.com/user-attachments/assets/fee15133-d45d-4b3d-bdfe-c547d32c51af)
 
 - Insight:
 
@@ -145,7 +146,7 @@ Here’s the main dashboard layout that brings together all key insights:
 
 ## 3. Academics and Sleep Affected (by Gender)
 - Question: How do gender and addiction impact academic performance and sleep?
-  ![Capture2](https://github.com/user-attachments/assets/9fe60533-280e-4fe0-9934-493765fc53d0)
+![Capture2_PhotoGrid](https://github.com/user-attachments/assets/336dfd31-ae81-4e5e-8a54-805185a5eb5a)
 
 - Insight:
 
@@ -155,7 +156,7 @@ Here’s the main dashboard layout that brings together all key insights:
 
 ## 4. Addiction Summary Metrics
 - Question: What is the overall impact of social media addiction?
-  ![Capture3](https://github.com/user-attachments/assets/aa8909d5-6ec0-4866-91a3-11f4101a8f31)
+![Capture3_PhotoGrid](https://github.com/user-attachments/assets/b7c13ce1-f0ad-4d19-858d-e68bfd09d761)
 
 - Insight:
 
@@ -167,7 +168,7 @@ Here’s the main dashboard layout that brings together all key insights:
 
 ## 5. Risk Level Distribution
 - Question: How are users distributed across risk categories?
-  ![Capture4](https://github.com/user-attachments/assets/ac674838-428e-4c9c-8209-d68dce3f83ca)
+![Capture4_PhotoGrid](https://github.com/user-attachments/assets/e5626d06-d32e-4bec-a6e1-b86343a9e904)
 
 - Insight:
 
@@ -179,7 +180,7 @@ Here’s the main dashboard layout that brings together all key insights:
 
 ## 6. Addiction According to Social Media Platform
 - Question: Which platforms are most associated with addiction?
-  ![Capture5](https://github.com/user-attachments/assets/164e65e4-df9f-4712-b1e7-047dcd577ad1)
+![Capture5_PhotoGrid](https://github.com/user-attachments/assets/2210a99f-f14b-4335-a824-92a18d958861)
 
 - Insight:
 
