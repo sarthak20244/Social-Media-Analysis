@@ -21,7 +21,13 @@ The objective of this project is to gain practical experience with a modern data
 ## Project Architecture
 
 **Workflow:**  
-Raw survey data → Python (cleaning & EDA) → Clean dataset → Power BI dashboards for interactive insights.
+Raw survey data 
+⬇  
+Python (cleaning & EDA) 
+⬇  
+Clean dataset 
+⬇  
+Power BI dashboards for interactive insights.
 
 ## Setup and Getting Started
 
@@ -131,9 +137,9 @@ Here’s the main dashboard layout that brings together all key insights:
 
 - Insight:
   
-1.Age 20 (23.89%) and 24 (23.56%) top the chart, making up nearly half (47.45%) of all cases.
-
-2.Age 21 follows closely with 22.65%, indicating that early 20s are the most vulnerable group.
+           1.Age 20 (23.89%) and 24 (23.56%) top the chart, making up nearly half (47.45%) of all cases.
+ 
+           2.Age 21 follows closely with 22.65%, indicating that early 20s are the most vulnerable group.
 
 ## 2. Mental Health Score vs Risk
 - Question: How does mental health score correlate with addiction, academic, and sleep risks?
@@ -141,9 +147,9 @@ Here’s the main dashboard layout that brings together all key insights:
 
 - Insight:
 
-1.Risk levels peak at a mental health score of 6, suggesting moderate mental health is associated with the highest vulnerability.
+           1.Risk levels peak at a mental health score of 6, suggesting moderate mental health is associated with the highest vulnerability.
 
-2.As scores increase beyond 6, risk sharply drops — indicating better mental health correlates with reduced risk.
+           2.As scores increase beyond 6, risk sharply drops — indicating better mental health correlates with reduced risk.
 
 ## 3. Academics and Sleep Affected (by Gender)
 - Question: How do gender and addiction impact academic performance and sleep?
@@ -151,9 +157,9 @@ Here’s the main dashboard layout that brings together all key insights:
 
 - Insight:
 
-1.Both academic performance and sleep are significantly affected, with males showing higher levels of impact than females.
+            1.Both academic performance and sleep are significantly affected, with males showing higher levels of impact than females.
 
-2.More males suffer academically and experience sleep disruption, pointing to gender-specific susceptibility.
+            2.More males suffer academically and experience sleep disruption, pointing to gender-specific susceptibility.
 
 ## 4. Addiction Summary Metrics
 - Question: What is the overall impact of social media addiction?
@@ -161,11 +167,11 @@ Here’s the main dashboard layout that brings together all key insights:
 
 - Insight:
 
-1.4538 individuals are addicted.
+            1.4538 individuals are addicted.
 
-2.453 have their academics hampered.
+            2.453 have their academics hampered.
 
-3.Sleep for this group is also noted as "Affected", indicating widespread health impacts.
+            3.Sleep for this group is also noted as "Affected", indicating widespread health impacts.
 
 ## 5. Risk Level Distribution
 - Question: How are users distributed across risk categories?
@@ -173,11 +179,11 @@ Here’s the main dashboard layout that brings together all key insights:
 
 - Insight:
 
-1.66.23% (9K) fall under High Risk.
+            1.66.23% (9K) fall under High Risk.
 
-2.25.64% (3K) are at Low Risk.
+            2.25.64% (3K) are at Low Risk.
 
-3.Only 8.12% (1K) are at Medium Risk, showing the majority are at critical risk levels.
+            3.Only 8.12% (1K) are at Medium Risk, showing the majority are at critical risk levels.
 
 ## 6. Addiction According to Social Media Platform
 - Question: Which platforms are most associated with addiction?
@@ -185,9 +191,9 @@ Here’s the main dashboard layout that brings together all key insights:
 
 - Insight:
 
-1.Instagram and TikTok lead with the highest addiction scores.
+            1.Instagram and TikTok lead with the highest addiction scores.
 
-2.Facebook and WhatsApp follow, while platforms like LINE, Vkontakte, KakaoTalk show minimal impact.
+            2.Facebook and WhatsApp follow, while platforms like LINE, Vkontakte, KakaoTalk show minimal impact.
 
-3.Indicates addiction is concentrated around a few dominant platforms.
+            3.Indicates addiction is concentrated around a few dominant platforms.
 
